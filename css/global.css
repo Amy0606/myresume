@@ -1,0 +1,23 @@
+@charset "utf-8";
+/*
+作者：Amy.dai
+日期：2017.6.9
+描述：全局变量的定义
+Email:276906930@qq.com
+*/
+html {
+  font-size: 14px;
+}
+/*基础颜色定义*/
+/*文字大小定义*/
+/*定义圆角大小*/
+/*色系定义*/
+.ft-size-b {
+  font-size: 2.145rem;
+}
+.ft-size-m {
+  font-size: 1.285rem;
+}
+.ft-green {
+  color: #2fb9a0;
+}
