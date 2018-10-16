@@ -402,7 +402,7 @@ a.scrollup:hover {
   transition: all 0.5s ease;
 }
 .carousel-fade .carousel-inner .item {
-  height: 25rem;
+  height: 30rem;
   transition-property: opacity;
 }
 .carousel-fade .carousel-inner .item1 {
